@@ -1,0 +1,601 @@
+{
+    "id": null,
+    "text": null,
+    "attitudes": null,
+    "comments": null,
+    "reposts": null
+}{
+    "id": "4524494573744352",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%8Dshow%E4%B8%8D%E5%A4%8F%E5%A4%A9%23&extparam=%23%E4%B8%8Dshow%E4%B8%8D%E5%A4%8F%E5%A4%A9%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#不show不夏天#</span></a>今天的我 好好當一個製作人。<br /> <a data-url=\"http://t.cn/A6yVQIqv\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4524494570660112&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <br /><a href='/n/JFJProductions'>@JFJProductions</a> <br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> ",
+    "attitudes": 16158,
+    "comments": 4516,
+    "reposts": 3227
+}{
+    "id": "4524193377941923",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%8Dshow%E4%B8%8D%E5%A4%8F%E5%A4%A9%23&extparam=%23%E4%B8%8Dshow%E4%B8%8D%E5%A4%8F%E5%A4%A9%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#不show不夏天#</span></a>猜猜看，到底發生什麼事！ <a data-url=\"http://t.cn/A6ytBAYn\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4524193255576711&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/A6ytBboD\" href=\"https://m.weibo.cn/p/index?containerid=2317444524193208008717&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 25580,
+    "comments": 4611,
+    "reposts": 20701
+}{
+    "id": "4523779327598967",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E6%97%B6%E5%88%BB%23&extparam=%23%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E6%97%B6%E5%88%BB%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#高考加油时刻#</span></a>明天高考了 高考加油！期待你们分享你们的好成绩！！Go Go Go！ <a data-url=\"http://t.cn/A6yGD3uB\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4523779328291474&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 89713,
+    "comments": 9333,
+    "reposts": 39653
+}{
+    "id": "4523054934724919",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%8F%E6%97%A5%E7%94%9F%E5%9B%BE%E6%8C%91%E6%88%98%23&extparam=%23%E5%A4%8F%E6%97%A5%E7%94%9F%E5%9B%BE%E6%8C%91%E6%88%98%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#夏日生图挑战#</span></a>亮起來。 <a data-url=\"http://t.cn/A6yLFkPG\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4523054934719736&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 37289,
+    "comments": 5724,
+    "reposts": 44659
+}{
+    "id": "4522263187325662",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%8F%E6%97%A5%E7%94%9F%E5%9B%BE%E6%8C%91%E6%88%98%23&extparam=%23%E5%A4%8F%E6%97%A5%E7%94%9F%E5%9B%BE%E6%8C%91%E6%88%98%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#夏日生图挑战#</span></a>在另外一個世界裡，我一定是 賽博龐克 遊戲「SNATCHER」當中的主角。不然現在怎麼會那麼愛科幻風？ <a data-url=\"http://t.cn/A6yz1A1h\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4522263187319608&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 34998,
+    "comments": 6635,
+    "reposts": 24860
+}{
+    "id": "4521997960749636",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%92%92%E9%87%8E%E4%B8%80%E5%A4%8F%23&extparam=%23%E6%92%92%E9%87%8E%E4%B8%80%E5%A4%8F%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#撒野一夏#</span></a>全世界最好吃的韓國料理！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E9%BA%97%E4%BA%AD%23&extparam=%23%E9%AB%98%E9%BA%97%E4%BA%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#高麗亭#</span></a><br /> <a data-url=\"http://t.cn/A6yhFCAM\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4521997961514701&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 39756,
+    "comments": 7118,
+    "reposts": 22450
+}{
+    "id": "4521857891917400",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%92%92%E9%87%8E%E4%B8%80%E5%A4%8F%23&extparam=%23%E6%92%92%E9%87%8E%E4%B8%80%E5%A4%8F%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#撒野一夏#</span></a>猜猜看這是什麼？<br /><br /> <a data-url=\"http://t.cn/A6yhPtQY\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4521857892737961&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 30887,
+    "comments": 7431,
+    "reposts": 32461
+}{
+    "id": "4521552878534688",
+    "text": "謝謝 Hypebeast的支持！<br /><br /><a data-url=\"http://t.cn/A6yvzfPP\" href=\"https://hypebeast.com/2020/6/smg-g-shock-dw-6900-bb-resurgence-special-edition-watch-collab-smudgestore?luicode=10000011&lfid=1076031195354434&u=https%3A%2F%2Fhypebeast.com%2F2020%2F6%2Fsmg-g-shock-dw-6900-bb-resurgence-special-edition-watch-collab-smudgestore\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a> ",
+    "attitudes": 0,
+    "comments": 0,
+    "reposts": 0
+}{
+    "id": "4521264083831360",
+    "text": "溪邊人生 抓不到蝦子，只能自拍。<br /> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%B8%85%E7%A9%BA6%E6%9C%88%E7%9B%B8%E5%86%8C%23&extparam=%23%E6%B8%85%E7%A9%BA6%E6%9C%88%E7%9B%B8%E5%86%8C%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#清空6月相册#</span></a> <a data-url=\"http://t.cn/A6LFUdkr\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4521264078737849&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 64679,
+    "comments": 10341,
+    "reposts": 21070
+}{
+    "id": "4519830147290904",
+    "text": "與團隊努力了這段時間，終於正式開幕了！<br />感謝所有一起來共襄盛舉的親朋好友們！<a href='/n/黃子佼'>@黃子佼</a> <a href='/n/余文樂'>@余文樂</a> <a href='/n/孟耿如Summer'>@孟耿如Summer</a> <a href='/n/張懷秋Harry'>@張懷秋Harry</a> <a href='/n/林哲儀DJMykal'>@林哲儀DJMykal</a> <a href='/n/張懷顥Mike'>@張懷顥Mike</a> <br />歡迎大家來到「賽博龐克」！ ",
+    "attitudes": 52105,
+    "comments": 10006,
+    "reposts": 25151
+}{
+    "id": "4519665337156239",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%AB%AF%E5%8D%88%E8%8A%82%E7%BE%8E%E9%A3%9F%E5%A4%A7%E8%B5%9B%23&extparam=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E7%BE%8E%E9%A3%9F%E5%A4%A7%E8%B5%9B%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#端午节美食大赛#</span></a>来吃粽子了！ 祝大家端午節安康！你喜歡什麼口味的粽子？<br /><br /> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%AF%8F%E6%97%A5%E5%AF%BB%E5%91%B3%E8%AE%B0%23&extparam=%23%E6%AF%8F%E6%97%A5%E5%AF%BB%E5%91%B3%E8%AE%B0%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#每日寻味记#</span></a> <a data-url=\"http://t.cn/A6LR9PNP\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4519665332243881&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 56641,
+    "comments": 10513,
+    "reposts": 21026
+}{
+    "id": "4519108769036379",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%AF%8F%E6%97%A5%E5%AF%BB%E5%91%B3%E8%AE%B0%23&extparam=%23%E6%AF%8F%E6%97%A5%E5%AF%BB%E5%91%B3%E8%AE%B0%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#每日寻味记#</span></a>晚餐自拍！<br /><br /> <a data-url=\"http://t.cn/A6LYgDul\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4519108765670759&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 43513,
+    "comments": 7975,
+    "reposts": 20457
+}{
+    "id": "4518250752448965",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%80%81%E7%88%B8%E8%B6%85%E7%82%AB%E7%9A%84%23&extparam=%23%E8%80%81%E7%88%B8%E8%B6%85%E7%82%AB%E7%9A%84%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#老爸超炫的#</span></a>祝所有的爸爸們父親節快樂！ 爸爸，謝謝你給予我的所有陪伴和正能量！相信很快我們就可以再一起旅遊、烤肉、唱歌！我愛你！ <a data-url=\"http://t.cn/A6LC6sM1\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4518250748908813&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 58171,
+    "comments": 7403,
+    "reposts": 20724
+}{
+    "id": "4518001241765950",
+    "text": "想來嗎？ <a data-url=\"http://t.cn/A6LK2YpB\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4518001242954001&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 40913,
+    "comments": 9306,
+    "reposts": 23488
+}{
+    "id": "4516814757069436",
+    "text": "JFJ 出任務！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%84%A1%E6%BF%BE%E9%8F%A1%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#無濾鏡#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%88%B1%E8%B1%86%E8%83%BD%E9%87%8F%E6%9C%88%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#爱豆能量月#</span></a><br /> <a data-url=\"http://t.cn/A6LVuahG\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4516814754137305&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 40414,
+    "comments": 8138,
+    "reposts": 85806
+}{
+    "id": "4515482763426134",
+    "text": "發現咖啡新秘境 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%88%B1%E8%B1%86%E8%83%BD%E9%87%8F%E6%9C%88%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#爱豆能量月#</span></a> <a data-url=\"http://t.cn/A6L2XLgm\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4515482759494975&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 62962,
+    "comments": 12426,
+    "reposts": 121479
+}{
+    "id": "4515019809652698",
+    "text": "會議接會議 中間吃飯！<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%AF%8F%E6%97%A5%E5%AF%BB%E5%91%B3%E8%AE%B0%23&extparam=%23%E6%AF%8F%E6%97%A5%E5%AF%BB%E5%91%B3%E8%AE%B0%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#每日寻味记#</span></a><br /><br /> <a data-url=\"http://t.cn/A6Lz5bVf\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4515019805066320&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 50725,
+    "comments": 10113,
+    "reposts": 116323
+}{
+    "id": "4514691483609774",
+    "text": "有新洗腦歌可以玩了！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%90%A7%E6%95%AC%E8%85%BE%E7%8C%B4%E7%AC%BC%E6%8A%96%E8%82%A9%E7%A5%9E%E6%9B%B2%23&extparam=%23%E8%90%A7%E6%95%AC%E8%85%BE%E7%8C%B4%E7%AC%BC%E6%8A%96%E8%82%A9%E7%A5%9E%E6%9B%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#萧敬腾猴笼抖肩神曲#</span></a> <a data-url=\"http://t.cn/A6LPYPjn\" href=\"https://m.weibo.cn/p/index?containerid=2304444514691217555463&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 76062,
+    "comments": 12287,
+    "reposts": 57936
+}{
+    "id": "4513553522043081",
+    "text": "夏天到了！ JFJ運動日：爬山！靠近大自然，更了解、愛護我們的地球家園！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23i%E6%8A%A4%E5%9C%B0%E7%90%83%23&extparam=%23i%E6%8A%A4%E5%9C%B0%E7%90%83%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#i护地球#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E5%8D%9A%E6%98%9F%E5%85%AC%E7%9B%8A%23&extparam=%23%E5%BE%AE%E5%8D%9A%E6%98%9F%E5%85%AC%E7%9B%8A%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#微博星公益#</span></a><br /> <a data-url=\"http://t.cn/A62Bg1L0\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4513553522039683&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 51354,
+    "comments": 12886,
+    "reposts": 155428
+}{
+    "id": "4510946410849872",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BD%BB%E6%9D%BE%E7%AD%B961%E7%AB%A5%E8%A1%8C%E5%8A%A8%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#轻松筹61童行动#</span></a> 小小的願望，大大的家。<br /><br />我選了8幅來自 <a href='/n/中国SOS儿童村'>@中国SOS儿童村</a> 小朋友的作品，選擇你喜歡的，以「我想有個家」為主題二次創作吧，把你的愛裝進畫中，讓孩子不孤單。<br /><br />帶話題 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BD%BB%E6%9D%BE%E7%94%BB%E5%87%BA%E7%88%B1%23&extparam=%23%E8%BD%BB%E6%9D%BE%E7%94%BB%E5%87%BA%E7%88%B1%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#轻松画出爱#</span></a> 發佈你的畫作，和孩子們一起創造溫暖的家 <a href='/n/中国互联网发展基金会'>@中国互联网发展基金会</a> <a href='/n/轻松筹'>@轻松筹</a> <a data-url=\"http://t.cn/A62CzDav\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4510946406768000&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 33197,
+    "comments": 10345,
+    "reposts": 64026
+}{
+    "id": "4510388769797670",
+    "text": "「Hello」，意味著我們再也不用說再見 <a href='/n/萧敬腾'>@萧敬腾</a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%96%B0%E6%AD%8CMV%23&extparam=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%96%B0%E6%AD%8CMV%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#萧敬腾林俊杰新歌MV#</span></a>",
+    "attitudes": 33357,
+    "comments": 4605,
+    "reposts": 7241
+}{
+    "id": "4510296930174342",
+    "text": "Hello! 今晚 19:30  <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%90%83%E4%B8%AD%E6%96%87%E9%9F%B3%E4%B9%90%E6%A6%9C%E4%B8%8A%E6%A6%9C%E8%8D%A3%E8%80%80%E5%BC%80%E6%92%AD%23&extparam=%23%E5%85%A8%E7%90%83%E4%B8%AD%E6%96%87%E9%9F%B3%E4%B9%90%E6%A6%9C%E4%B8%8A%E6%A6%9C%E8%8D%A3%E8%80%80%E5%BC%80%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#全球中文音乐榜上榜荣耀开播#</span></a> ，我和J弟 <a href='/n/萧敬腾'>@萧敬腾</a> 等你喔！ <a data-url=\"http://t.cn/A62aDrKi\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4510296930820380&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 33606,
+    "comments": 4464,
+    "reposts": 69732
+}{
+    "id": "4509948204421722",
+    "text": "「咖啡結拜兄弟，兄弟是萬裡挑一」<br /><a href='/n/夢想家林志穎'>@夢想家林志穎</a> <a href='/n/萧敬腾'>@萧敬腾</a> <a href='/n/張懷秋Harry'>@張懷秋Harry</a> <br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23smudgestoretaipei%23&extparam=%23smudgestoretaipei%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#smudgestoretaipei#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23miraclecoffee%E6%9D%B1%E5%8D%80%23&extparam=%23miraclecoffee%E6%9D%B1%E5%8D%80%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#miraclecoffee東區#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23smg1307%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#smg1307#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23smglife%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#smglife#</span></a> <a data-url=\"http://t.cn/A626WR3X\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4509947658311517&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/A626lvyL\" href=\"https://m.weibo.cn/p/index?containerid=2317444509947007008798&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 0,
+    "comments": 0,
+    "reposts": 0
+}{
+    "id": "4508830790662922",
+    "text": "Hello，來讓我看看還有誰站的高？😳<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&extparam=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#萧敬腾林俊杰合作新歌#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%9A%E6%B4%B2%E6%96%B0%E6%AD%8C%E6%A6%9C%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#亚洲新歌榜#</span></a> ",
+    "attitudes": 58164,
+    "comments": 12221,
+    "reposts": 41121
+}{
+    "id": "4508620974418341",
+    "text": "蕭敬騰 X 林俊傑《Hello》 正式上線！<br /><br />上線平台：QQ音樂、酷狗、酷我、網易雲、Apple Music、咪咕、小米 <br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0hello%23&extparam=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0hello%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#萧敬腾林俊杰hello#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%A9%E5%A5%87%E8%BF%B9%E5%8F%91%E5%A3%B0%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#让奇迹发声#</span></a> <a data-url=\"http://t.cn/A62tsflB\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4508620970701175&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 39577,
+    "comments": 6609,
+    "reposts": 25824
+}{
+    "id": "4507454636200401",
+    "text": "誰想喝我沖的咖啡？ <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%235%E6%9C%88%E8%A1%A8%E7%99%BD%E5%AD%A3%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#5月表白季#</span></a> <a data-url=\"http://t.cn/A62USXhZ\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4507454246041438&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/A62USW3o\" href=\"https://m.weibo.cn/p/index?containerid=2317444507454164107273&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 58279,
+    "comments": 10800,
+    "reposts": 23759
+}{
+    "id": "4507119125506483",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%235%E6%9C%88%E8%A1%A8%E7%99%BD%E5%AD%A3%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#5月表白季#</span></a><br />奇蹟般的聚會<br />奇蹟般的組合<br />奇蹟般的開心！<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%91%A8%E6%9D%B0%E5%80%AB%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#周杰倫#</span></a> <a href='/n/夢想家林志穎'>@夢想家林志穎</a> <a href='/n/萧敬腾'>@萧敬腾</a> <a href='/n/張懷秋Harry'>@張懷秋Harry</a> <br /><br /> <a data-url=\"http://t.cn/A62Lbaqs\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4507119120881032&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 62636,
+    "comments": 8128,
+    "reposts": 27580
+}{
+    "id": "4507040574450395",
+    "text": "是，521 快樂！親自為你打造我最愛的「Wonderblend」<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%235%E6%9C%88%E8%A1%A8%E7%99%BD%E5%AD%A3%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#5月表白季#</span></a> <a data-url=\"http://t.cn/A622YkwK\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4507040573786130&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 48871,
+    "comments": 7553,
+    "reposts": 31373
+}{
+    "id": "4506761396972725",
+    "text": "新馬口味的料理，象徵著對家的想念！520快樂！<br />Happy 520! Missing home!<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%235%E6%9C%88%E8%A1%A8%E7%99%BD%E5%AD%A3%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#5月表白季#</span></a> ",
+    "attitudes": 69688,
+    "comments": 10562,
+    "reposts": 27680
+}{
+    "id": "4506298793663237",
+    "text": "即將完成！almost ready!<br /><a href='/n/SMGLIFE'>@SMGLIFE</a> <a href='/n/MiracleCoffee'>@MiracleCoffee</a> ",
+    "attitudes": 0,
+    "comments": 0,
+    "reposts": 0
+}{
+    "id": "4504816750427606",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A5%87%E8%BF%B9%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#奇迹#</span></a><br />就算騰空而起<br />水上漫步<br />都不如你我 每一日<br />懷抱著愛 並肩行走<br />那樣神奇 <a data-url=\"http://t.cn/A6Agxueb\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4504816745905329&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 49206,
+    "comments": 8753,
+    "reposts": 25929
+}{
+    "id": "4503544160605937",
+    "text": "特別的驚喜、合作，來致敬辛苦的白衣天使。他們都懷抱著仁醫的使命，為患者付出最大的努力！他們永遠在前線面對各種挑戰，身心靈也需要被關注，希望大家能夠一起支持他們，為他們加油打氣！<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%87%B4%E6%95%AC%E7%99%BD%E8%A1%A3%E5%A4%A9%E4%BD%BF%E5%85%AC%E7%9B%8A%E4%BA%91%E6%BC%94%E5%94%B1%E4%BC%9A%23&extparam=%23%E8%87%B4%E6%95%AC%E7%99%BD%E8%A1%A3%E5%A4%A9%E4%BD%BF%E5%85%AC%E7%9B%8A%E4%BA%91%E6%BC%94%E5%94%B1%E4%BC%9A%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#致敬白衣天使公益云演唱会#</span></a>",
+    "attitudes": 97253,
+    "comments": 10855,
+    "reposts": 27108
+}{
+    "id": "4503010908732083",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BB%99%E5%A6%88%E5%A6%88%E7%9A%84%E6%83%85%E4%B9%A6%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#给妈妈的情书#</span></a>親愛的媽媽 「今年母親節不能親自到你身旁一起度過很遺憾，但希望小小心意還是可以帶給您一點笑容和溫暖！等疫情過後，帶您去露營！我愛妳！」<br /><br />祝所有媽媽們，母親節快樂！ <a data-url=\"http://t.cn/A6AQ73F7\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4503010905227530&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 57965,
+    "comments": 6187,
+    "reposts": 29750
+}{
+    "id": "4502444052720388",
+    "text": "黑搭黑 coming soon<br /><br /> <a data-url=\"http://t.cn/A6AlR7sG\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4502444052909713&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 0,
+    "comments": 0,
+    "reposts": 0
+}{
+    "id": "4501604491758630",
+    "text": "最近迷上了新的活動：露營！！！能夠靠近大自然去生活，也加強了和同事、朋友們的互動相處，真的很不錯！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B0%BD%E5%85%B4%E7%94%9F%E6%B4%BB%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#尽兴生活#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJVLOG%23&extparam=%23JJVLOG%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJVLOG#</span></a> <a data-url=\"http://t.cn/A6AKIXub\" href=\"https://m.weibo.cn/p/index?containerid=2304444501599058329607&url_type=39&object_type=video&pos=1&allowRedirect=1&disable_interception=1&disable_sinaurl=1&schemewhitelist=%7B%22scheme%22%3A%5B%22.%2A%22%5D%2C%22itunes%22%3A%5B%22.%2A%22%5D%7D&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 80037,
+    "comments": 16626,
+    "reposts": 38725
+}{
+    "id": "4500967938495296",
+    "text": "一起團結，相信未來，繼續用音樂傳遞愛！<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%A9%E5%A5%87%E8%BF%B9%E5%8F%91%E5%A3%B0%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#让奇迹发声#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5%E4%B9%89%E6%BC%94%23&extparam=%23%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5%E4%B9%89%E6%BC%94%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#相信未来义演#</span></a>",
+    "attitudes": 48232,
+    "comments": 7817,
+    "reposts": 22158
+}{
+    "id": "4500526718883228",
+    "text": "<a data-url=\"http://t.cn/A6AMsjtA\" href=\"http://m.weibo.cn/client/version?disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2016/07/04/165/timeline_card_small_checkin_default.png'></span><span class=\"surl-text\">明晚19:30 #相信未来义演#</span></a>  ，我們一起為信念發聲 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B9%90%E6%8A%9A%E4%BA%BA%E5%BF%83%23&extparam=%23%E4%B9%90%E6%8A%9A%E4%BA%BA%E5%BF%83%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#乐抚人心#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%A9%E5%A5%87%E8%BF%B9%E5%8F%91%E5%A3%B0%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#让奇迹发声#</span></a>",
+    "attitudes": 36523,
+    "comments": 5180,
+    "reposts": 14501
+}{
+    "id": "4499041419350076",
+    "text": "粉 Pink day! <a data-url=\"http://t.cn/A6ALrV43\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4499041419340159&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 57109,
+    "comments": 10534,
+    "reposts": 38451
+}{
+    "id": "4497350334207796",
+    "text": "直到那天，再對你說 《Hello》 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0hello%23&extparam=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E4%BF%8A%E6%9D%B0hello%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#萧敬腾林俊杰hello#</span></a>",
+    "attitudes": 63403,
+    "comments": 9216,
+    "reposts": 26908
+}{
+    "id": "4497302389334253",
+    "text": "Hello<br />「Hello」大概是繼「媽媽」之後，我們出生以來最初接觸的字眼了。我始終難忘第一次踏上舞台表演的第一聲「hello」... 以及那之後的很多次「hello」。<br /><br />我在想...<br /><br />每一次的「hello」之間，我們都經歷了什麼？我們付出了多少、又經過了多少次教訓才得以再次說「hello」？<br /><br />今天的我，還能夠有機會 ...<a href=\"/status/4497302389334253\">全文</a>",
+    "attitudes": 74295,
+    "comments": 10038,
+    "reposts": 25208
+}{
+    "id": "4497264569430310",
+    "text": "Hello Jam兄，很開心我們一起創作了這首新作品。希望這個作品能夠順利傳達我們作為音樂人，站在舞台上身為表演者的心聲！",
+    "attitudes": 39487,
+    "comments": 5170,
+    "reposts": 3697
+}{
+    "id": "4496948679508724",
+    "text": "感恩有機會透過這樣的方式繼續分享生活中的點點滴滴！ ",
+    "attitudes": 56153,
+    "comments": 8143,
+    "reposts": 40967
+}{
+    "id": "4495771275674213",
+    "text": "來吧，一起讓奇蹟發聲！ <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B8%AE%E5%94%B1%E8%90%A7%E6%95%AC%E8%85%BE%23&extparam=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B8%AE%E5%94%B1%E8%90%A7%E6%95%AC%E8%85%BE%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#林俊杰帮唱萧敬腾#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%AD%8C%E6%89%8B%E5%BD%93%E6%89%93%E4%B9%8B%E5%B9%B4%23&extparam=%23%E6%AD%8C%E6%89%8B%E5%BD%93%E6%89%93%E4%B9%8B%E5%B9%B4%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#歌手当打之年#</span></a>",
+    "attitudes": 107675,
+    "comments": 14084,
+    "reposts": 12692
+}{
+    "id": "4495725734330995",
+    "text": "過去、現在、未來 與世界分享音樂暖心的時刻，微小的力量也能匯聚成堅強！<br /><br />只要你和我同步，奇蹟就會在身邊！<br /><br />曲 Composer：林俊傑 JJ Lin  <br />詞 Lyrics：張懷秋 Harry Chang<br />編曲 Music Arrangement：吳慶隆 Goh Kheng Long<br /><br />音樂製作 Music Productions：JFJ PRODUCTIONS Corp. Limited<br />音樂總監 Mu ...<a href=\"/status/4495725734330995\">全文</a>",
+    "attitudes": 49218,
+    "comments": 7538,
+    "reposts": 22273
+}{
+    "id": "4495488953032782",
+    "text": "綠色 是一種美 <a data-url=\"http://t.cn/A6wl5f62\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4495488948151652&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 63521,
+    "comments": 8605,
+    "reposts": 20224
+}{
+    "id": "4495097741359437",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B8%8C%E6%9C%9B%E6%90%9C%E7%B4%A2%E8%AF%8D%23&extparam=%23%E5%B8%8C%E6%9C%9B%E6%90%9C%E7%B4%A2%E8%AF%8D%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#希望搜索词#</span></a> <a data-url=\"http://t.cn/A6wpWUVM\" href=\"http://m.weibo.cn/client/version?luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2016/07/04/165/timeline_card_small_checkin_default.png'></span><span class=\"surl-text\">今晚20:25 CCTV-3</span></a>  綜藝頻道《希望搜索詞》，跟我一起用音樂治癒這個世界吧！ <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%B8%BA%E5%B0%8F%E7%9A%84%E4%B8%BE%E5%8A%A8%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%95%88%E5%BA%94%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#渺小的举动伟大的效应#</span></a>",
+    "attitudes": 27555,
+    "comments": 3932,
+    "reposts": 15118
+}{
+    "id": "4494330616472398",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%A9%E5%A5%87%E8%BF%B9%E5%8F%91%E5%A3%B0%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#让奇迹发声#</span></a> 專注、聆聽、思考、計畫。<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E6%98%A5%E6%84%8F%23&extparam=%23%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E6%98%A5%E6%84%8F%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#镜头里的春意#</span></a>  <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%98%8E%E6%98%9F%E6%95%99%E5%AE%A4%E8%AE%A1%E5%88%92%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#明星教室计划#</span></a> <a data-url=\"http://t.cn/A6wa7SCi\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4494330612251150&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 45455,
+    "comments": 8054,
+    "reposts": 37724
+}{
+    "id": "4493371613608441",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%98%A5%E6%97%A5%E9%A3%9F%E8%AE%B0%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#春日食记#</span></a><br />晚餐時間: 有隔間、有點距離，但也有安全感的一餐。祝大家平安！ <a data-url=\"http://t.cn/A6wcu13Q\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4493371609733530&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 60224,
+    "comments": 9313,
+    "reposts": 32973
+}{
+    "id": "4492228158275703",
+    "text": "謝謝你們17年的陪伴，祝「JJ 林俊傑」17歲生日快樂！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9E%97%E4%BF%8A%E5%82%91%E5%87%BA%E9%81%9317%E9%80%B1%E5%B9%B4%23&extparam=%23%E6%9E%97%E4%BF%8A%E5%82%91%E5%87%BA%E9%81%9317%E9%80%B1%E5%B9%B4%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#林俊傑出道17週年#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%AE%9A%E6%A0%BC%E5%BD%A9%E8%89%B2%E7%9B%B8%E7%89%87%23&extparam=%23%E5%AE%9A%E6%A0%BC%E5%BD%A9%E8%89%B2%E7%9B%B8%E7%89%87%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#定格彩色相片#</span></a> <a data-url=\"http://t.cn/A6wA8IZj\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4492228158684500&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 103566,
+    "comments": 20925,
+    "reposts": 196679
+}{
+    "id": "4490803487231905",
+    "text": "待在家！ 也可以很好玩！<br /><br />感謝<a href='/n/蔡健雅'>@蔡健雅</a> 的想法，和用心剪接！<br /> <a href='/n/孫燕姿'>@孫燕姿</a> <a href='/n/Kit陈洁仪'>@Kit陈洁仪</a>  <a data-url=\"http://t.cn/A6ZrjiIc\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4490803377866902&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/A6Zrjomg\" href=\"https://m.weibo.cn/p/index?containerid=2317444490803347652657&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 67680,
+    "comments": 11103,
+    "reposts": 22275
+}{
+    "id": "4490475941261840",
+    "text": "我的墨鏡竟然出現在杰倫的MV裡？其實我也會”變魔術”嘿嘿<span class=\"url-icon\"><img alt=[酷] src=\"https://h5.sinaimg.cn/m/emoticon/icon/default/d_ku-6fa1a42f7b.png\" \n                style=\"width:1em; height:1em;\" /></span><br /><br />今晚<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%91%A8%E9%81%8A%E8%A8%98%23&extparam=%23%E5%91%A8%E9%81%8A%E8%A8%98%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#周遊記#</span></a>不見不散！ <a data-url=\"http://t.cn/A6Z3CGBZ\" href=\"https://m.weibo.cn/p/index?containerid=2304444490474220879876&url_type=39&object_type=video&pos=1&allowRedirect=1&disable_interception=1&disable_sinaurl=1&schemewhitelist=%7B%22scheme%22%3A%5B%22.%2A%22%5D%2C%22itunes%22%3A%5B%22.%2A%22%5D%7D&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 74173,
+    "comments": 6071,
+    "reposts": 5755
+}{
+    "id": "4490411152377756",
+    "text": "謝謝您的重新創作，把《江南》改編成《ETERNITY》，如此浪漫！恭喜發片！",
+    "attitudes": 35660,
+    "comments": 3967,
+    "reposts": 10219
+}{
+    "id": "4488947646531189",
+    "text": "想家了！ 只能先吃吃家鄉美食：肉骨茶！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%8D%E6%BD%AE%E4%B8%8D%E5%87%BA%E8%A1%97%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#不潮不出街#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%85%A7%E9%A8%99%E5%BF%85%E5%82%99%E7%A9%BF%E6%90%AD%E5%85%83%E7%B4%A0%23&extparam=%23%E7%85%A7%E9%A8%99%E5%BF%85%E5%82%99%E7%A9%BF%E6%90%AD%E5%85%83%E7%B4%A0%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#照騙必備穿搭元素#</span></a> <a data-url=\"http://t.cn/A6ZCs9Va\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4488947646523759&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 71552,
+    "comments": 10674,
+    "reposts": 30741
+}{
+    "id": "4488628573126537",
+    "text": "327那天，一群很有心的朋友們聚集在JFJ聖所，為擁護音樂的朋友們共同完成了LOVE WISHES的使命。那一天，感覺一切水到渠成... 所有人的能量釋放讓 JFJ聖所，以及<a href='/n/JFJProductions'>@JFJProductions</a> 團隊得到了新的啟發和展望！<br />再次感謝所有參與活動的朋友們，予以的辛勞付出和大大的愛心！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a> ...<a href=\"/status/4488628573126537\">全文</a>",
+    "attitudes": 46420,
+    "comments": 6721,
+    "reposts": 23304
+}{
+    "id": "4487813980613512",
+    "text": "在這裡想要對 LOVE WISHES 直播團隊的大家庭致上滿滿的謝意！所有的心血、籌備、努力，都是為了一個共同的目標：在這個充滿挑戰的時期，為大家的生活中註入些許愛與希望！ 我愛你們！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> <a data-url=\"http://t.cn/A6ZVr0Gg\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4487813980403590&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 49377,
+    "comments": 7528,
+    "reposts": 20073
+}{
+    "id": "4487551496310739",
+    "text": "地球關燈一小時！ 為了我們美麗的家園，我參與地球關燈一小時！帶來一段節能版的《Always Online》！ <br /><br /> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%B8%BA%E5%B0%8F%E7%9A%84%E8%88%89%E5%8B%95%E5%81%89%E5%A4%A7%E7%9A%84%E6%95%88%E6%87%89%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#渺小的舉動偉大的效應#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327SAVE%23&extparam=%23JJ327SAVE%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327SAVE#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23SmallActVastEffect%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#SmallActVastEffect#</span></a> <a data-url=\"http://t.cn/A6Z5DA8g\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4487551253376436&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/A6Z5DMss\" href=\"https://m.weibo.cn/p/index?containerid=2317444487550799380514&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 58952,
+    "comments": 8155,
+    "reposts": 21729
+}{
+    "id": "4487390816892487",
+    "text": "有你們的參與，這首歌變得更完整<br />有你們在，327也變得更充實、更別具意義！<br /><a href='/n/蔡健雅'>@蔡健雅</a> <a href='/n/陶喆'>@陶喆</a> <a href='/n/阿信'>@阿信</a> <br />We will《Stay With You》<br /><br />【Stay With You】(live enhanced version)<br />曲：林俊傑 JJ Lin<br />詞：孫燕姿 Stefanie Sun<br />編曲Music Arrangement：林俊傑 JJ Lin<br /><br />演唱者 Performers：林俊傑 JJ Lin、陶喆 Da ...<a href=\"/status/4487390816892487\">全文</a>",
+    "attitudes": 75183,
+    "comments": 8910,
+    "reposts": 24784
+}{
+    "id": "4487260227226055",
+    "text": "謝謝你們的祝福，實現了我的願望，讓327成為屬於愛與希望的一天！！<a href='/n/陶喆'>@陶喆</a><a href='/n/蔡健雅'>@蔡健雅</a>  <a href='/n/阿信'>@阿信</a> <a href='/n/黃子佼'>@黃子佼</a> <br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> ",
+    "attitudes": 104466,
+    "comments": 11013,
+    "reposts": 20506
+}{
+    "id": "4487167533613053",
+    "text": "我在 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a> ，等你來許願！<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E5%8D%9A%E5%AE%85live%23&extparam=%23%E5%BE%AE%E5%8D%9A%E5%AE%85live%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#微博宅live#</span></a><br /><a data-url=\"http://t.cn/A6Z4yijb\" href=\"https://m.weibo.cn/feature/applink?scheme=sinaweibo%3A%2F%2Fchatroom%3Ficon%3D%26container_id%3D231076xs9XJYi0TtOCpkBH%26name%3D%2540%25E6%259E%2597%25E4%25BF%258A%25E6%259D%25B0%2B%25E7%259A%2584%25E4%25B8%2580%25E7%259B%25B4%25E6%2592%25AD%26width%3D1920%26height%3D1080%26room_type%3Dvideo%26livetype%3Dxiaokalive%26cover%3Dhttps%253A%252F%252Falcdn.img.xiaoka.tv%252F20200327%252Fa44%252Fa27%252F2785935%252Fa44a27ee7692abe0741e23fd43c6b871.jpeg%25401e_1c_0o_0l_640h_640w.webp%26scid%3Dxs9XJYi0TtOCpkBH%26card_container_id%3D2310750001redirect\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">@林俊杰 的一直播</span></a>（下载App-&gt;<a data-url=\"http://t.cn/EhGWXEC\" href=\"https://m.yizhibo.com?disable_interception=1&disable_sinaurl=1&allowRedirect=1&url=https%3A%2F%2Fm.yizhibo.com&luicode=10000011&lfid=1076031195354434&u=https%3A%2F%2Fm.yizhibo.com\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">网页链接</span></a>） ",
+    "attitudes": 79219,
+    "comments": 146131,
+    "reposts": 6463
+}{
+    "id": "4487153168020787",
+    "text": "準備好許願了，你會許什麼願望？<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ifmiracleshadasound%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#ifmiracleshadasound#</span></a> ",
+    "attitudes": 57288,
+    "comments": 15540,
+    "reposts": 28708
+}{
+    "id": "4486884992410265",
+    "text": "<a data-url=\"http://t.cn/A6Z23KRe\" href=\"https://m.weibo.cn/p/index?containerid=231601_1195354434_1_158524020798&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">今天是我的生日，来祝福我吧！</span></a>",
+    "attitudes": 196498,
+    "comments": 54117,
+    "reposts": 18244
+}{
+    "id": "4486881460714531",
+    "text": "生日，雖然對自己而言重要的日子，但327已經不單單只是屬於自己的日子，而更重要來分享「愛與希望」的一天。大家都正在為這一天做準備，我想，親自陪伴辛苦的團隊，是最好的慶生方式！<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a> 不見不散！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ifmiracleshadasound%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#ifmiracleshadasound#</span></a> ",
+    "attitudes": 128749,
+    "comments": 34474,
+    "reposts": 25431
+}{
+    "id": "4486767849788713",
+    "text": "準備ing 327 期待明天327 一起分享 愛與希望！<br /><br /> <a data-url=\"http://t.cn/A6ZAZBqf\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4486767845585378&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 54563,
+    "comments": 10244,
+    "reposts": 24312
+}{
+    "id": "4485971929737907",
+    "text": "具有意義的日子<br />與充滿誠意的朋友們<br />進行最直接的雲見面！<br />「JJ 林俊傑 327 LOVE WISHES 直播見面會」<br />全網播出，不准不來！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E5%8D%9A%E5%AE%85live%23&extparam=%23%E5%BE%AE%E5%8D%9A%E5%AE%85live%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#微博宅live#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23327%E6%83%8A%E5%96%9C%E5%80%92%E6%95%B0+3%E5%A4%A9%23&extparam=%23327%E6%83%8A%E5%96%9C%E5%80%92%E6%95%B0+3%E5%A4%A9%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#327惊喜倒数 3天#</span></a> <a data-url=\"http://t.cn/A6zswO7p\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4485971925790453&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 43320,
+    "comments": 9403,
+    "reposts": 22057
+}{
+    "id": "4485954625057912",
+    "text": "咖啡師之路 當自己的朋友排隊喝我沖的咖啡時，我知道我進步了。<br /><br /> <a data-url=\"http://t.cn/A6zF1lVI\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4485954620296018&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 53248,
+    "comments": 8380,
+    "reposts": 25432
+}{
+    "id": "4485227533787776",
+    "text": "為了看到媽媽最開心的笑容，盡量安排最美的驚喜！謝謝 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%91%A8%E9%81%8A%E8%A8%98%23&extparam=%23%E5%91%A8%E9%81%8A%E8%A8%98%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#周遊記#</span></a> <a href='/n/周杰伦资讯网官方微博'>@周杰伦资讯网官方微博</a> ",
+    "attitudes": 96583,
+    "comments": 8732,
+    "reposts": 21425
+}{
+    "id": "4484885068540703",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a> 一起相約，3月27日晚上7:30<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%87%BA%E5%8F%91%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#下一站出发#</span></a> 「327 LOVE WISHES 直播見面會」<br />會和我一起吧！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23327%E6%83%8A%E5%96%9C%E5%80%92%E6%95%B0+6%E5%A4%A9%23&extparam=%23327%E6%83%8A%E5%96%9C%E5%80%92%E6%95%B0+6%E5%A4%A9%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#327惊喜倒数 6天#</span></a><br /> <a data-url=\"http://t.cn/A6z3vO8n\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4484885030513153&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/A6z3vlER\" href=\"https://m.weibo.cn/p/index?containerid=2317444484884475871243&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 40066,
+    "comments": 7951,
+    "reposts": 29865
+}{
+    "id": "4484612505949028",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23327%E6%83%8A%E5%96%9C%E5%80%92%E6%95%B0+7%E5%A4%A9%23&extparam=%23327%E6%83%8A%E5%96%9C%E5%80%92%E6%95%B0+7%E5%A4%A9%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#327惊喜倒数 7天#</span></a><br /><br />327 LOVE WISHES 直播見面會，一起來許願 ! 👼3月27日 晚上7:30PM不見不散！<br />期待 <a href='/n/陶喆'>@陶喆</a> <a href='/n/蔡健雅'>@蔡健雅</a> <a href='/n/黃子佼'>@黃子佼</a> 一起分享愛與希望<span class=\"url-icon\"><img alt=[心] src=\"https://h5.sinaimg.cn/m/emoticon/icon/others/l_xin-6912791858.png\" \n                style=\"width:1em; height:1em;\" /></span><br /><br />記得密切關注，後續將揭曉直播平台🤓<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a> ",
+    "attitudes": 39940,
+    "comments": 8284,
+    "reposts": 19603
+}{
+    "id": "4483835880537091",
+    "text": "哎哟？我看到影片中有我喔！你怎么把我变到你身旁的，魔术越来越厉害了😆",
+    "attitudes": 43723,
+    "comments": 8041,
+    "reposts": 7834
+}{
+    "id": "4483465053918497",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a> <a data-url=\"http://t.cn/A6zOfqAP\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4483465049715674&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 47082,
+    "comments": 12277,
+    "reposts": 23664
+}{
+    "id": "4483464369684024",
+    "text": "Coming soon... <br /><br /><a href='/n/SMGLIFE'>@SMGLIFE</a> <a href='/n/MiracleCoffee'>@MiracleCoffee</a> <br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23SMUDGEstore%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#SMUDGEstore#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23miraclecoffee%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#miraclecoffee#</span></a> ",
+    "attitudes": 0,
+    "comments": 0,
+    "reposts": 0
+}{
+    "id": "4482467392230952",
+    "text": "白色情人節，請自己吃白色霜淇淋！<br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B8%80%E8%A7%92%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#我的生活一角#</span></a> <a data-url=\"http://t.cn/A6z6K6L9\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4482467346095515&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/A6z6KS2e\" href=\"https://m.weibo.cn/p/index?containerid=2317444482467327836177&url_type=39&object_type=video&pos=1&allowRedirect=1&disable_interception=1&disable_sinaurl=1&schemewhitelist=%7B%22scheme%22%3A%5B%22.%2A%22%5D%2C%22itunes%22%3A%5B%22.%2A%22%5D%7D&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 95567,
+    "comments": 18629,
+    "reposts": 31189
+}{
+    "id": "4481734995384807",
+    "text": "藝術品活起來了！ <br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23KAWS%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#KAWS#</span></a> <br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BF%8E%E6%98%A5%E7%AC%91%E8%84%B8%E5%A4%A7%E8%B5%9B%23&extparam=%23%E8%BF%8E%E6%98%A5%E7%AC%91%E8%84%B8%E5%A4%A7%E8%B5%9B%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#迎春笑脸大赛#</span></a> <a data-url=\"http://t.cn/A6zt9dG5\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4481734995053825&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 0,
+    "comments": 0,
+    "reposts": 0
+}{
+    "id": "4480629913764483",
+    "text": "當你聽到自己喜歡的聲音 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%8A%E6%98%A5%E5%A4%A9%E7%A9%BF%E8%BA%AB%E4%B8%8A%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#把春天穿身上#</span></a>  <a data-url=\"http://t.cn/A6z7SoFp\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4480629913524634&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 71052,
+    "comments": 12977,
+    "reposts": 36878
+}{
+    "id": "4480318909802938",
+    "text": "我們互相提醒，只要心連心、團結起來，無論遇到再大的困難，我們都能夠跨越！ 非常感謝 <a href='/n/何炅'>@何炅</a>  <a href='/n/湖南卫视嘿你在干嘛呢'>@湖南卫视嘿你在干嘛呢</a> 團隊的貼心安排與幫忙，讓我們可以透過這麼特別的方式來陪伴彼此、傳遞正能量！ 接下來3/27，我們一起繼續分享愛、一起期待更多的驚喜！  <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&extparam=%23JJ327LOVEWISHES%E7%9B%B4%E6%92%AD%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#JJ327LOVEWISHES直播#</span></a>",
+    "attitudes": 79134,
+    "comments": 11637,
+    "reposts": 12194
+}{
+    "id": "4480212320528004",
+    "text": "今天3月8 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%87%B4%E5%8F%AF%E6%84%9B%E7%9A%84%E4%BD%A0%23&extparam=%23%E8%87%B4%E5%8F%AF%E6%84%9B%E7%9A%84%E4%BD%A0%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#致可愛的你#</span></a> 致偉大的你，女神節快樂！<br /><br />今晚 湖南衛視19:45 <br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%98%BF%E4%BD%A0%E5%9C%A8%E5%B9%B2%E5%98%9B%E5%91%A2%23&extparam=%23%E5%98%BF%E4%BD%A0%E5%9C%A8%E5%B9%B2%E5%98%9B%E5%91%A2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#嘿你在干嘛呢#</span></a><br /> <a data-url=\"http://t.cn/A67kKqfU\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4480212320243600&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 70397,
+    "comments": 13470,
+    "reposts": 28063
+}{
+    "id": "4477443127162445",
+    "text": "四年一次的229, 祝我們下一次還是一樣燦爛的笑容！ ",
+    "attitudes": 121995,
+    "comments": 12982,
+    "reposts": 29422
+}{
+    "id": "4476654678072951",
+    "text": "色系、音色都很符合風格和調調！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> ",
+    "attitudes": 68226,
+    "comments": 10623,
+    "reposts": 22933
+}{
+    "id": "4474510059431927",
+    "text": "進行式 ",
+    "attitudes": 68167,
+    "comments": 11854,
+    "reposts": 22695
+}{
+    "id": "4474047998328747",
+    "text": "幫我想標題 ",
+    "attitudes": 97178,
+    "comments": 18402,
+    "reposts": 20946
+}{
+    "id": "4471906625683472",
+    "text": "來聽健康檢查報告，一切都安好！情人節快樂，最重要的還是身體要健康，祝大家都平安！ ",
+    "attitudes": 98544,
+    "comments": 15849,
+    "reposts": 21765
+}{
+    "id": "4469764048655706",
+    "text": "元宵節快樂！ 遇到困難時，一起共同努力面對、克服！I’ll stay with you, 我繼續！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%83%E5%AE%B5%E5%BF%AB%E4%B9%90%E5%AE%85%23&extparam=%23%E5%85%83%E5%AE%B5%E5%BF%AB%E4%B9%90%E5%AE%85%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#元宵快乐宅#</span></a><br /> <a data-url=\"http://t.cn/A6PDRzMA\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4469764048649974&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 90353,
+    "comments": 13103,
+    "reposts": 20700
+}{
+    "id": "4467554510219078",
+    "text": "DT in the house (Singapore Esplanade), 怎麼能錯過呢？非常溫暖感動的演唱會，首首經典！很開心可以和 <a href='/n/陶喆'>@陶喆</a> 一起用音樂把正能量傳遞到人們的心中！<br />DT and JJ in the house! <br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23dtinthehouse%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#dtinthehouse#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%8D%E7%82%BA%E8%AA%B0%E8%80%8C%E4%BD%9C%E7%9A%84%E6%AD%8C%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#不為誰而作的歌#</span></a> <a data-url=\"http://t.cn/A6PWG3Rc\" href=\"https://m.weibo.cn/p/index?containerid=2304444467553888829462&url_type=39&object_type=video&pos=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 54277,
+    "comments": 10287,
+    "reposts": 31140
+}{
+    "id": "4466430290428212",
+    "text": "守住彼此的愛，願病痛趕快離開！ <a href='/n/孙燕姿'>@孙燕姿</a> <a href='/n/人民日报'>@人民日报</a>   <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AD%A6%E6%B1%89%E5%8A%A0%E6%B2%B9mv%23&extparam=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AD%A6%E6%B1%89%E5%8A%A0%E6%B2%B9mv%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#林俊杰武汉加油mv#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%AD%A6%E6%B1%89%E5%8A%A0%E6%B2%B9%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#武汉加油#</span></a>",
+    "attitudes": 75701,
+    "comments": 10065,
+    "reposts": 16274
+}{
+    "id": "4465833890211071",
+    "text": "就算  再艰难<br />爱  不会离开<br />I’ll Stay With You<br /><a href='/n/孫燕姿'>@孫燕姿</a><br /><a href='/n/人民日报'>@人民日报</a><br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%84%9B%E4%B8%8D%E6%9C%83%E9%9B%A2%E9%96%8B%23&extparam=%23%E6%84%9B%E4%B8%8D%E6%9C%83%E9%9B%A2%E9%96%8B%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#愛不會離開#</span></a><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> <br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B9%B3%E5%AE%89%E9%BC%A0%E4%BA%8E%E4%BD%A0%23&extparam=%23%E5%B9%B3%E5%AE%89%E9%BC%A0%E4%BA%8E%E4%BD%A0%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#平安鼠于你#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BC%A0%E9%80%92%E6%B8%A9%E6%9A%96%E6%88%91%E8%A6%81%E5%8F%AE%E5%98%B1%23&extparam=%23%E4%BC%A0%E9%80%92%E6%B8%A9%E6%9A%96%E6%88%91%E8%A6%81%E5%8F%AE%E5%98%B1%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#传递温暖我要叮嘱#</span></a><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%97%E5%87%BB%E6%96%B0%E5%9E%8B%E8%82%BA%E7%82%8E%E6%88%91%E4%BB%AC%E5%9C%A8%E8%A1%8C%E5%8A%A8%23&extparam=%23%E6%8A%97%E5%87%BB%E6%96%B0%E5%9E%8B%E8%82%BA%E7%82%8E%E6%88%91%E4%BB%AC%E5%9C%A8%E8%A1%8C%E5%8A%A8%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#抗击新型肺炎我们在行动#</span></a><br /><br />版权属于JFJ Productions（除歌词属于 Make Music），未经正式授权者（不论个人或团体）：<br />• 严禁商用<br />• 严禁二改<br />• 严禁重制  ...<a href=\"/status/4465833890211071\">全文</a>",
+    "attitudes": 2013180,
+    "comments": 118273,
+    "reposts": 573670
+}{
+    "id": "4465299145428902",
+    "text": "RIP Kobe，我們會很想念您... ",
+    "attitudes": 366417,
+    "comments": 10460,
+    "reposts": 9929
+}{
+    "id": "4465008970771267",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BC%A0%E5%B9%B4%E5%A4%A7%E5%90%89%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#鼠年大吉#</span></a>家庭聚會！ 兩年不見，怎麼感覺大家都長大了！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BF%87%E5%B9%B4%E5%B0%B1%E8%A6%81%E5%90%83%E8%82%89%23&extparam=%23%E8%BF%87%E5%B9%B4%E5%B0%B1%E8%A6%81%E5%90%83%E8%82%89%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#过年就要吃肉#</span></a> <a data-url=\"http://t.cn/A6PczIq7\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4465008966781748&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 74615,
+    "comments": 8741,
+    "reposts": 21721
+}{
+    "id": "4464410607655663",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BC%A0%E5%B9%B4%E5%A4%A7%E5%90%89%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#鼠年大吉#</span></a>新年快樂！！！ 祝大家鼠年有「鼠」不完的快樂時刻！學業 、業績 「鼠」一「鼠」二！一切美好都「鼠」於你！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%96%B0%E5%B9%B4%E5%BF%83%E7%A5%9D%E7%A6%8F%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#新年心祝福#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%98%A5%E8%8A%82%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#春节摄影大赛#</span></a> <a data-url=\"http://t.cn/A6P4rqHY\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4464410603203918&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 65116,
+    "comments": 10437,
+    "reposts": 21392
+}{
+    "id": "4464238821504602",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BC%A0%E5%B9%B4%E5%A4%A7%E5%90%89%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#鼠年大吉#</span></a>除夕快樂！ 希望大家帶著溫暖、充滿愛的心迎接明天的新年！<br />但還是要注意多洗手、戴口罩！<br />祝大家平安！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B9%B4%E5%A4%9C%E9%A5%ADC%E4%BD%8D%E6%8B%85%E5%BD%93%23&extparam=%23%E5%B9%B4%E5%A4%9C%E9%A5%ADC%E4%BD%8D%E6%8B%85%E5%BD%93%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#年夜饭C位担当#</span></a>  <a data-url=\"http://t.cn/A6PL1AGW\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4464238766787604&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a data-url=\"http://t.cn/z84e22O\" href=\"https://m.weibo.cn/p/index?containerid=2306570042B2094752DB65A5FE449A&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_location_default.png'></span><span class=\"surl-text\">新加坡·Singapore</span></a> <a data-url=\"http://t.cn/A6PL1USx\" href=\"https://m.weibo.cn/p/index?containerid=2317444464238677131269&url_type=39&object_type=video&pos=1&allowRedirect=1&disable_interception=1&disable_sinaurl=1&schemewhitelist=%7B%22scheme%22%3A%5B%22.%2A%22%5D%2C%22itunes%22%3A%5B%22.%2A%22%5D%7D&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">林俊杰的微博视频</span></a> ",
+    "attitudes": 82880,
+    "comments": 9190,
+    "reposts": 19857
+}{
+    "id": "4463531203770759",
+    "text": "<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BC%A0%E5%B9%B4%E5%A4%A7%E5%90%89%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#鼠年大吉#</span></a>回家過鼠年！ 鼠年快到了戴上 新的心情、新的展望、新的墨鏡！<br />祝大家回家的路上平安！ <a data-url=\"http://t.cn/A6vk40YL\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4463531204217590&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish&disable_interception=1&disable_sinaurl=1&allowRedirect=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%98%A5%E8%8A%82%E5%BD%92%E9%80%94%E9%9A%8F%E6%89%8B%E6%8B%8D%23&extparam=%23%E6%98%A5%E8%8A%82%E5%BD%92%E9%80%94%E9%9A%8F%E6%89%8B%E6%8B%8D%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#春节归途随手拍#</span></a> ",
+    "attitudes": 70814,
+    "comments": 8863,
+    "reposts": 26075
+}{
+    "id": "4462948678604453",
+    "text": "2020，一起繼續 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23StillMovingUnderGunfire%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#StillMovingUnderGunfire#</span></a> ,繼續 <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> ！<br /><a href='/n/JFJProductions'>@JFJProductions</a> <a href='/n/MiracleCoffee'>@MiracleCoffee</a> <a href='/n/SMGLIFE'>@SMGLIFE</a> <a href='/n/TeamSMG电子竞技俱乐部'>@TeamSMG电子竞技俱乐部</a> <a href='/n/JJFEDERATION林距離'>@JJFEDERATION林距離</a> ",
+    "attitudes": 46403,
+    "comments": 5115,
+    "reposts": 34441
+}{
+    "id": "4462713406780830",
+    "text": "很榮幸，很開心！我會繼續努力！謝謝大家！！ //<a href='/n/JFJProductions'>@JFJProductions</a>:感谢大家的支持，2020年 JFJ Productions 将继续秉持着高质量制作更多好音乐，一起创造更多巅峰纪录！ <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%A9%E5%A5%87%E8%BF%B9%E5%8F%91%E5%A3%B0%23&isnewpage=1&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#让奇迹发声#</span></a> <a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23QQ%E9%9F%B3%E4%B9%90%E5%B7%85%E5%B3%B0%E6%A6%9C2019%E5%B9%B4%E7%BB%88%E6%A6%9C%E5%8D%95%23&extparam=%23QQ%E9%9F%B3%E4%B9%90%E5%B7%85%E5%B3%B0%E6%A6%9C2019%E5%B9%B4%E7%BB%88%E6%A6%9C%E5%8D%95%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#QQ音乐巅峰榜2019年终榜单#</span></a>",
+    "attitudes": 39034,
+    "comments": 4125,
+    "reposts": 10457
+}{
+    "id": "4462206454822885",
+    "text": "歡迎來到JFJ聖所！ Tiffany <a href='/n/TiffanyYoungOfficial'>@TiffanyYoungOfficial</a> 來到JFJ，交換時尚靈感！<br /><br /><a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%93%E5%A5%87%E8%B9%9F%E7%99%BC%E8%81%B2%23&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class=\"surl-text\">#讓奇蹟發聲#</span></a> <a data-url=\"http://t.cn/A6vOAvFQ\" href=\"https://oasis.weibo.cn/v1/h5/share?sid=4462206453912445&wm=90223_90008&lfid=wbcc_lz&luicode=10000001&cctype=publish\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png'></span><span class=\"surl-text\">绿洲</span></a> ",
+    "attitudes": 111306,
+    "comments": 8584,
+    "reposts": 11230
+}{
+    "id": "4461466759132912",
+    "text": "你來打卡，我也來打卡！<a href='/n/JFJProductions'>@JFJProductions</a> <a href='/n/MiracleCoffee'>@MiracleCoffee</a>  <a data-url=\"http://t.cn/A6viHugV\" href=\"https://m.weibo.cn/c/story/player?oid=1042151%3A4461466745765924&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png'></span><span class=\"surl-text\">微博视频</span></a> ",
+    "attitudes": 0,
+    "comments": 0,
+    "reposts": 0
+}{
+    "id": "4461331127841547",
+    "text": "跟爸爸去吃好吃的！很有特色的30年老餐廳！ ",
+    "attitudes": 77266,
+    "comments": 7979,
+    "reposts": 85858
+}{
+    "id": "4460684357843478",
+    "text": "想我嗎？好久沒簽名了，聽說只有VIP有耶，你是VIP嗎？<br /><a  href=\"https://m.weibo.cn/p/index?containerid=100808c6b08fe8916e95b4d0cd85a03a66fa0b&extparam=%E6%9E%97%E4%BF%8A%E6%9D%B0&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/100/959/2020/05/09/timeline_card_small_super_default.png'></span><span class=\"surl-text\">林俊杰超话</span></a> ",
+    "attitudes": 70338,
+    "comments": 65762,
+    "reposts": 19727
+}{
+    "id": "4458861383982011",
+    "text": "漫畫。 ",
+    "attitudes": 69490,
+    "comments": 10387,
+    "reposts": 23329
+}{
+    "id": "4458144669837601",
+    "text": "新翅膀！ <a data-url=\"http://t.cn/R8FxtY1\" href=\"https://m.weibo.cn/p/index?containerid=23065700428000106037000000004&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_location_default.png'></span><span class=\"surl-text\">美国·洛杉矶</span></a> ",
+    "attitudes": 94326,
+    "comments": 10153,
+    "reposts": 19618
+}{
+    "id": "4457657920846940",
+    "text": "經典餐廳景點 Neptune’s Net. <a data-url=\"http://t.cn/RPHuMKz\" href=\"https://m.weibo.cn/p/index?containerid=2306570042B2094456DB64A6FB4292&luicode=10000011&lfid=1076031195354434\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_location_default.png'></span><span class=\"surl-text\">美国·Neptune's Net</span></a> ",
+    "attitudes": 59865,
+    "comments": 10017,
+    "reposts": 26072
+}
