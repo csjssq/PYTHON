@@ -7,8 +7,8 @@ opener = urllib.build_opener(urllib.HTTPCookieProcessor(cj))
 urllib.install_opener(opener)
 
 postdata_login = urllib.urlencode({
-    'id': 'davidstark',
-    'pw': 'davidstark',
+    'id': '',
+    'pw': '',
     'submit': 'login'
 })
 req = urllib.request.Request(url='https://bbs.sjtu.edu.cn/bbslogin', data=postdata_login)
